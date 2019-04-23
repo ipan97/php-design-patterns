@@ -3,11 +3,14 @@
     "description": "PHP Design Patterns",
     "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Ipan Taupik Rahman",
-            "email": "ipantaupik97@gmail.com"
+    "authors": [{
+        "name": "Ipan Taupik Rahman",
+        "email": "ipantaupik97@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
         }
-    ],
+    },
     "require": {}
 }
