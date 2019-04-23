@@ -1,0 +1,13 @@
+{
+    "name": "ipan97/php-design-patterns",
+    "description": "PHP Design Patterns",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ipan Taupik Rahman",
+            "email": "ipantaupik97@gmail.com"
+        }
+    ],
+    "require": {}
+}
